@@ -6,4 +6,4 @@
 - 🤩&nbsp; I like walking, coffee, order, minimalism, poetry, and music.
 - 🗂&nbsp; I like comfortable and organized things.
 
-More information on my website in Russian: [gurylev.com](https://gurylev.com/)
+More info: [gurylev.com](https://gurylev.com/) (in Russian 🇷🇺)
