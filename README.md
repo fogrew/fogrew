@@ -1,6 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fogrew" alt="Languages over Last 30 Days (Powered by wakatime.com)" width="40%" align="right">
-
 # Hi 👋 My name is Andrew Gurylev
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fogrew" alt="Languages over Last 30 Days (Powered by wakatime.com)" width="40%" align="right">
 
 - 💼&nbsp; I'm currently working as a team lead, product manager, and web-developer at [Wrike](https://www.wrike.com/).
 - 👴&nbsp; I make websites since 2007.
