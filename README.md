@@ -1,4 +1,4 @@
-<img src="https://wakatime.com/share/@fogrew/32ed8fb3-1d16-4cb0-985e-02faf005554e.png" alt="Languages over Last 30 Days (Powered by wakatime.com)" width="40%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fogrew" alt="Languages over Last 30 Days (Powered by wakatime.com)" width="40%" align="right">
 
 # Hi 👋 My name is Andrew Gurylev
 
