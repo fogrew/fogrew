@@ -2,7 +2,7 @@
 
 # Hi 👋 My name is Andrew Gurylev
 
-- 💼&nbsp; I'm currently working as a team lead, product manager, and front-end developer at [Wrike](https://www.wrike.com/).
+- 💼&nbsp; I'm currently working as a team lead, product manager, and web-developer at [Wrike](https://www.wrike.com/).
 - 👴&nbsp; I make websites since 2007.
 - 🦾&nbsp; I maintain my pet-projects on the personal GitLab instance.
 - 🤩&nbsp; I like walking, coffee, order, minimalism, poetry, and music.
