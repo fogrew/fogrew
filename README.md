@@ -1,4 +1,4 @@
-<img src="https://wakatime.com/share/@fogrew/3585fbb8-cdaf-403b-b18b-8de1068e5a28.svg" alt="Languages over Last 30 Days (Powered by wakatime.com)" width="45%" align="right">
+<a href="https://wakatime.com/share/@fogrew/3585fbb8-cdaf-403b-b18b-8de1068e5a28.svg" target="_blank"><img src="https://wakatime.com/share/@fogrew/3585fbb8-cdaf-403b-b18b-8de1068e5a28.svg" alt="Languages over Last 30 Days (Powered by wakatime.com)" width="45%" align="right"></a>
 
 # Hi 👋 My name is Andrew Gurylev
 
