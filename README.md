@@ -5,13 +5,13 @@
 * Senior Frontend Developer / Team lead / Middle Node.js Developer in Limassol, Cyprus.
 * Making websites since 2007, now working as Senior Markup Developer in [BrainRocket](https://www.brainrocket.com/).
 ### **Teacher** 👨‍🏫
-* Mentor in [BranRocket Academy](https://www.brainrocket.com/broacademy), learning people how to markup websites.
+* Teacher in [BranRocket Academy](https://www.brainrocket.com/broacademy), learning people how to markup websites.
 * Since 2016 started teaching of HTML and JS in Epic Skills in St. Petersburg, Russia.
 * At the same time organized monthly [NodeSchool SPb](http://nodeschool.io/spb) schools for teaching people how to write Node.js.
 * Collected all the slides in a [Github Collection](https://github.com/stars/fogrew/lists/fogrew-slides).
 ### **Tech event manager** 🗣️
 * Organized [PiterJS](https://piterjs.org/) monthly meetup for three years as a main contributor.
-* Just joined to [CyprusJS](https://cyprusjs.org/) team.
+
 ### Self-hoster 🦾
 * Maintain pet-projects on the personal git server.
 * Hosting all I need on a personal network attached storage.
